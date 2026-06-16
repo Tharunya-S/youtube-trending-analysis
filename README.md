@@ -98,6 +98,22 @@ The project includes visualizations and statistical analysis for:
 ![Video Views Distribution](images/video_views_distribution.png)
 
 ---
+## 🔍 Key Insights
+
+* 📊 Certain channel types dominate in subscriber count, showing clear content popularity trends.
+* 👀 Higher video views are generally associated with higher subscriber counts, indicating engagement correlation.
+* 📈 Some channels have high views but relatively low subscribers, suggesting viral content behavior.
+* 📉 Subscriber distribution is highly skewed, meaning a small number of channels control most of the audience.
+* 🧠 Correlation heatmap shows strong positive relationship between subscribers and total views.
+
+---
+
+## 🎯 Conclusion
+
+This project helped me understand how real-world YouTube data behaves and how trends can be analyzed using Python.
+It strengthened my skills in data cleaning, visualization, and deriving insights from raw datasets.
+
+---
 
 ## 🎯 Learning Outcomes
 
