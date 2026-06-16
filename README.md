@@ -24,6 +24,7 @@ This project was created as part of my Data Analytics and Placement Portfolio to
 ## 📂 Project Structure
 
 ```
+```text
 youtube-trending-analysis/
 │
 ├── data/
@@ -34,12 +35,18 @@ youtube-trending-analysis/
 │   └── 02_Exploratory_Data_Analysis.ipynb
 │
 ├── images/
+│   ├── Channel type distribution.png
+│   ├── Distribution of subscribers.png
+│   ├── correlation_heatmap.png
+│   ├── subscribers distribution by channel type.png
+│   └── video_views_distribution.png
 │
+├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── LICENSE
-└── README.md
+└── LICENSE
 ```
+
 
 ---
 
@@ -66,6 +73,29 @@ The project includes visualizations and statistical analysis for:
 * Correlation heatmaps
 * Channel-level insights
 * Basic exploratory visualizations
+
+---
+## 📸 Sample Visualizations
+
+### Channel Type Distribution
+
+![Channel Type Distribution](images/Channel type distribution.png)
+
+### Distribution of Subscribers
+
+![Distribution of Subscribers](images/Distribution of subscribers.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+### Subscribers Distribution by Channel Type
+
+![Subscribers Distribution by Channel Type](images/subscribers distribution by channel type.png)
+
+### Video Views Distribution
+
+![Video Views Distribution](images/video_views_distribution.png)
 
 ---
 
