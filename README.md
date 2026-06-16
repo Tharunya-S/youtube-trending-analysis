@@ -91,7 +91,7 @@ The project includes visualizations and statistical analysis for:
 
 ### Subscribers Distribution by Channel Type
 
-![Subscribers Distribution by Channel Type](images/images/subscribers distribution by channel type.png)
+![Subscribers Distribution by Channel Type](images/subscribers distribution by channel type.png)
 
 ### Video Views Distribution
 
