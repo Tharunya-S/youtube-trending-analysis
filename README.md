@@ -79,11 +79,11 @@ The project includes visualizations and statistical analysis for:
 
 ### Channel Type Distribution
 
-![Channel Type Distribution](images/Channel type distribution.png)
+![Channel Type Distribution](images/Channel_type_distribution.png)
 
 ### Distribution of Subscribers
 
-![Distribution of Subscribers](images/Distribution of subscribers.png)
+![Distribution of Subscribers](images/Distribution_of_subscribers.png)
 
 ### Correlation Heatmap
 
@@ -91,7 +91,7 @@ The project includes visualizations and statistical analysis for:
 
 ### Subscribers Distribution by Channel Type
 
-![Subscribers Distribution by Channel Type](images/subscribers distribution by channel type.png)
+![Subscribers Distribution by Channel Type](images/subscriber_distribution_by_channel_type.png)
 
 ### Video Views Distribution
 
